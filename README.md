@@ -11,7 +11,8 @@
 - Frame vs Panel (took a while)
 - Panel labels
 - Swing buttons:
-  + how to make,
-  + take input
+  + making them
+  + basic placements
+  + taking input
   + enable / disable
 - a lot more!
